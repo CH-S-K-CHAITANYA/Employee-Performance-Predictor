@@ -282,5 +282,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ---
 
 > ⭐ If this project helped you, please give it a star on GitHub!
-#   E m p l o y e e - P e r f o r m a n c e - P r e d i c t o r  
- 
+#
