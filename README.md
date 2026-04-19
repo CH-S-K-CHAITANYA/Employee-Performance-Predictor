@@ -269,7 +269,7 @@ Employee-Performance-Predictor/
 
 **CH S K CHAITANYA**
 
-- 📧 your.email@email.com
+- 📧 chskchaitanya755@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/chskchaitanya)
 - 🐙 [GitHub](https://github.com/CH-S-K-CHAITANYA)
 
