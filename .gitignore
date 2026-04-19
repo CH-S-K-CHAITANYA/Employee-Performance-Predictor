@@ -1,0 +1,31 @@
+# Virtual environments
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Model artifacts (optional — uncomment if too large)
+# models/*.pkl
+
+# Egg info
+*.egg-info/
+dist/
+build/
